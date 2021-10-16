@@ -3,10 +3,10 @@ It is a very amusing game. It is a side-scroller where the player controls a bir
 
 
 
-Group Member:
+## Group Member:
 
-(i) Name: Ramit Dutta
-(ii) Name: Ehsanul Karim
-(iii) Name: Sumaiya Tabassum
-(iv)Name: Sujoy Mondal
-(v) Name: Dipon Paul
+- Ramit Dutta
+- Ehsanul Karim
+- Sumaiya Tabassum
+- Sujoy Mondal
+- Dipon Paul
